@@ -1,4 +1,4 @@
-# Screenshotsm oMLX
+# Screenshots oMLX
 
 ![](1.png)
 ![](2.png)
